@@ -1,2 +1,2 @@
-# DailyLeetCode
+# Daily LeetCode
 LeetCode Practice Checkin 
