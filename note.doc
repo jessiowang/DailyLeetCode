@@ -1,0 +1,7 @@
+# Problem 13 
+for i in range(len(list)) VS for element in list
+- https://python.plainenglish.io/for-i-in-range-len-list-vs-for-element-in-list-when-to-use-which-for-beginners-cc2d042d01fe
+
+# Problem 17 
+Problem Solution: https://dev.to/seanpgallivan/solution-letter-combinations-of-a-phone-number-1n91#python-code
+Backtrack & Recursion: https://www.youtube.com/watch?v=AqGagBmFXgw
